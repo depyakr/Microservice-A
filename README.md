@@ -10,6 +10,7 @@ response = requests.get(url)
 print(response.text)
 
 An example call for a word from the category noun and difficulty easy is:
+
 import requests
 
 params = {
